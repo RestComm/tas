@@ -1,2 +1,2 @@
 # voltas
-VoLTE Telephony Application Server
+VoLTE & VoWifi Telephony Application Server
